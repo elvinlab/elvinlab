@@ -11,8 +11,15 @@
 ### Hey!
 
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
-![](https://visitor-badge.glitch.me/badge?page_id=elvinlab)
+
 <br>
+
+GitHub issues:	GitHub issues badge	https://img.shields.io/github/issues/elvinlab/elvinlab
+GitHub forks:	GitHub forks badge	https://img.shields.io/github/forks/elvinlab/elvinlab
+GitHub stars:	GitHub stars badge	https://img.shields.io/github/stars/elvinlab/elvinlab
+GitHub license:	GitHub license badge	https://img.shields.io/github/license/elvinlab/elvinlab
+Twitter:	Twitter badge	https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Felvinlab%2Felvinlab
+
 
 <h3 align="center">
 <a href="https://www.linkedin.com/in/elvinlab/"> Visit my Linkedin
