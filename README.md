@@ -47,7 +47,7 @@ to my GitHub profile!
 <img src="https://github.com/elvinlab/elvinlab/blob/main/img/notepad.gif" alt="Site created with Notepad" height="30" />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://github.com/elvinlab/elvinlab/blob/main/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer"/>
+<img src="ttps://github.com/elvinlab/elvinlab/blob/main/img/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://github.com/elvinlab/elvinlab/blob/main/img/noframes.gif" alt="Microsoft Internet Explorer" />
 
