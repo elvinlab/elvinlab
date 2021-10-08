@@ -32,6 +32,8 @@ to my GitHub profile!
 </div>
 </div>
 
+![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 <!-- Footer -->
 
 <div align="center">
