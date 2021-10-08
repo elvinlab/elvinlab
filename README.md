@@ -14,12 +14,6 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 <br>
 
-GitHub issues:	GitHub issues badge	https://img.shields.io/github/issues/elvinlab/elvinlab
-GitHub forks:	GitHub forks badge	https://img.shields.io/github/forks/elvinlab/elvinlab
-GitHub stars:	GitHub stars badge	https://img.shields.io/github/stars/elvinlab/elvinlab
-GitHub license:	GitHub license badge	https://img.shields.io/github/license/elvinlab/elvinlab
-Twitter:	Twitter badge	https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Felvinlab%2Felvinlab
-
 
 <h3 align="center">
 <a href="https://www.linkedin.com/in/elvinlab/"> Visit my Linkedin
@@ -33,7 +27,7 @@ Twitter:	Twitter badge	https://img.shields.io/twitter/url?url=https%3A%2F%2Fgith
 <p>Write something nice in my guest book:</p>
 <a href="https://github.com/elvinlab/elvinlab/issues"><img src="https://github.com/elvinlab/elvinlab/blob/main/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
-
+[![GitHub license](https://img.shields.io/github/license/elvinlab/elvinlab)](https://github.com/elvinlab/elvinlab/blob/main/LICENSE)
 <hr>
 
 <div align="center">
