@@ -8,10 +8,10 @@
 
 <hr/>
 
-<img align="left" src="https://orhun.dev/img/crow.png"/>
 ### Hey!
-to my GitHub profile! I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
+<img align="left" src="https://orhun.dev/img/crow.png"/>
+to my GitHub profile! I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 <hr/>
 
 <h3 align="center">
