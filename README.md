@@ -6,19 +6,14 @@
 <img src="https://github.com/elvinlab/elvinlab/blob/main/img/welcome-fire.gif" target="_blank" alt="Welcome" align="center">
 </div>
 
-
-<img align="left" src="https://orhun.dev/img/crow.png"/>
+<hr>
 
 ### Hey!
-
-I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
-
-[![pgp](https://img.shields.io/github/license/elvinlab/elvinlab?style=for-the-badge](https://github.com/elvinlab)
-
-<br>
-
 <div align="center">
-to my GitHub profile!
+ <img align="left" src="https://orhun.dev/img/crow.png"/>
+
+to my GitHub profile! I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
+
 </div>
 
 <h3 align="center">
