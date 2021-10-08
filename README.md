@@ -12,7 +12,15 @@
 
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 <br>
+<br>
 [![GitHub license](https://img.shields.io/github/license/elvinlab/elvinlab)](https://github.com/elvinlab/elvinlab/blob/main/LICENSE)
+
+
+GitHub issues:	GitHub issues badge	https://img.shields.io/github/issues/elvinlab/elvinlab
+GitHub forks:	GitHub forks badge	https://img.shields.io/github/forks/elvinlab/elvinlab
+GitHub stars:	GitHub stars badge	https://img.shields.io/github/stars/elvinlab/elvinlab
+GitHub license:	GitHub license badge	https://img.shields.io/github/license/elvinlab/elvinlab
+Twitter:	Twitter badge	https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Felvinlab%2Felvinlab
 <br>
 
 
