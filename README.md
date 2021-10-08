@@ -6,13 +6,13 @@
 <img src="https://github.com/elvinlab/elvinlab/blob/main/img/welcome-fire.gif" target="_blank" alt="Welcome" align="center">
 </div>
 
-<hr/>
+<img align="left" src="https://orhun.dev/img/crow.png">
 
 ### Hey!
 
-<img align="left" src="https://orhun.dev/img/crow.png"/>
-to my GitHub profile! I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
-<hr/>
+I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
+
+<br>
 
 <h3 align="center">
 <a href="https://www.linkedin.com/in/elvinlab/" target="_blank"> Visit my Linkedin
