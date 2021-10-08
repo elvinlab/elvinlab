@@ -56,7 +56,8 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 </div>
 
-<div>
+<br />
+<div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
