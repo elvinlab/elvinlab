@@ -11,6 +11,7 @@
 ### Hey!
 
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
+<br>
 [![GitHub license](https://img.shields.io/github/license/elvinlab/elvinlab)](https://github.com/elvinlab/elvinlab/blob/main/LICENSE)
 <br>
 
