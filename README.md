@@ -2,10 +2,6 @@
 <img src="https://github.com/elvinlab/elvinlab/blob/main/img/fan-1.gif" alt="Fan" align="center">
 </div>
 
-<div align="center">
-<img src="https://github.com/elvinlab/elvinlab/blob/main/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
-
 <img align="left" src="https://orhun.dev/img/crow.png">
 
 ### Hey!
