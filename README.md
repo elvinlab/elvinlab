@@ -85,17 +85,13 @@ export default const Elvinlab =() => {
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/elvinlab/hacienda-el-orosi-web-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elvinlab&repo=hacienda-el-orosi-web-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elvinlab&repo=hacienda-el-orosi-web-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="hacienda-el-orosi-web-app" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elvinlab&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="" />
+<a href="https://github.com/elvinlab/unavacuna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elvinlab&repo=unavacuna&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="unavacuna" />
 </a>
-
-<!-- ## 👨‍💻 This week, I spent my time on:
-
-[![elvinlab's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elvinlab&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<br />
 <br />
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
