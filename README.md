@@ -75,16 +75,14 @@ export default const Elvinlab =() => {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elvinlab&repo=unavacuna&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="unavacuna" />
 </a>
 </div>
-    
 <br />
-[![GitHub license](https://img.shields.io/github/license/elvinlab/elvinlab)](https://github.com/elvinlab/elvinlab/blob/main/LICENSE)
+![GitHub license](https://img.shields.io/github/license/elvinlab/elvinlab)](https://github.com/elvinlab/elvinlab/blob/main/LICENSE)
 <br />
 <br />
-[![elvinlab's github activity graph](https://activity-graph.herokuapp.com/graph?username=elvinlab&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![elvinlab's github activity graph](https://activity-graph.herokuapp.com/graph?username=elvinlab&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br />
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/elvinlab/elvinlab/blob/main/img/marquee.svg" />
 <br />
-
 ![Visitor Count](https://profile-counter.glitch.me/elvinlab/count.svg)
 
 <img src="https://github.com/elvinlab/elvinlab/blob/main/img/notepad.gif" alt="Site created with Notepad" height="30" />
