@@ -27,8 +27,8 @@ export default const Elvinlab =() => {
         backEnd: {
             all: ["Laravel", "Node.js", "Express.js", "Next.js", "ASP.NET Core" ],
         },
-        fronted: {
-        js: ["React.js", "Angular.js", "Vue.js"],
+        frontEnd: {
+            js: ["React.js", "Angular.js", "Vue.js"],
         },
         mobileApp: {
             hybrids: ["Xamarin", "Android Development", "React Native"]
