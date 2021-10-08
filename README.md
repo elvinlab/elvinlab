@@ -32,11 +32,12 @@ to my GitHub profile!
 </div>
 </div>
 
-![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/languages.svg)
 <!-- Footer -->
 
 <div align="center">
+ 
+![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/languages.svg)
 
 <img height="120" target="_blank" alt="Thanks for visiting me" width="100%" src="https://github.com/elvinlab/elvinlab/blob/main/img/marquee.svg" />
 <br />
