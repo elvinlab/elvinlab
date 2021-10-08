@@ -79,7 +79,8 @@ export default const Elvinlab =() => {
 </a>
 </div>
 <br />
-    
+[![elvinlab's github activity graph](https://activity-graph.herokuapp.com/graph?username=elvinlab&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br />
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/elvinlab/elvinlab/blob/main/img/marquee.svg" />
 <br />
 
