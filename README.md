@@ -11,7 +11,7 @@
 ### Hey!
 
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
-
+![](https://visitor-badge.glitch.me/badge?page_id=elvinlab)
 <br>
 
 <h3 align="center">
