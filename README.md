@@ -14,7 +14,6 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 <br>
 <br>
 [![GitHub license](https://img.shields.io/github/license/elvinlab/elvinlab)](https://github.com/elvinlab/elvinlab/blob/main/LICENSE)
-[![elvinlab's github activity graph](https://activity-graph.herokuapp.com/graph?username=elvinlab&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -66,6 +65,12 @@ export default const Elvinlab =() => {
  
 ![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/languages.svg)
+    
+<hr>
+    
+[![elvinlab's github activity graph](https://activity-graph.herokuapp.com/graph?username=elvinlab&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<hr>
 
 ## 🗂️ Highlight Projects
 <div align="center">
