@@ -63,6 +63,11 @@ export default const Elvinlab =() => {
 </div>
 </div>
 
+<div align="center">
+ 
+![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/languages.svg)
+
 ## 🗂️ Highlight Projects
 <div align="center">
 <a href="https://github.com/elvinlab/hacienda-el-orosi-web-app">
@@ -74,12 +79,7 @@ export default const Elvinlab =() => {
 </a>
 </div>
 <br />
-
-<div align="center">
- 
-![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/languages.svg)
-
+    
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/elvinlab/elvinlab/blob/main/img/marquee.svg" />
 <br />
 
