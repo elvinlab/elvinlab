@@ -11,7 +11,7 @@
 ### Hey!
 
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
-
+[![GitHub license](https://img.shields.io/github/license/elvinlab/elvinlab)](https://github.com/elvinlab/elvinlab/blob/main/LICENSE)
 <br>
 
 
@@ -27,7 +27,6 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 <p>Write something nice in my guest book:</p>
 <a href="https://github.com/elvinlab/elvinlab/issues"><img src="https://github.com/elvinlab/elvinlab/blob/main/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
-[![GitHub license](https://img.shields.io/github/license/elvinlab/elvinlab)](https://github.com/elvinlab/elvinlab/blob/main/LICENSE)
 <hr>
 
 <div align="center">
