@@ -39,7 +39,7 @@ export default const Elvinlab =() => {
 ```
 <br>
 <h3 align="center">
-<a href="https://www.linkedin.com/in/elvinlab/"> Visit my Linkedin
+<a href="https://elvinlab.github.io/profile/"> Visit my website
 <img src="https://github.com/elvinlab/elvinlab/blob/main/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
