@@ -1,27 +1,26 @@
 <div align="center">
-<img src="https://github.com/elvinlab/elvinlab/raw/elvinlab/img/fan-1.gif" alt="Fan" align="center">
+<img src="https://github.com/elvinlab/elvinlab/blob/main/img/fan-1.gif" alt="Fan" align="center">
 </div>
 
 <div align="center">
-<img src="https://github.com/elvinlab/elvinlab/raw/elvinlab/img/welcome-fire.gif" alt="Welcome" align="center">
+<img src="https://github.com/elvinlab/elvinlab/blob/main/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
 <div align="center">
-to my personal GitHub profile!
+to my GitHub profile!
 </div>
 
-<!--
 <h3 align="center">
-<a href="https://cbp.io">Visit my personal homepage
-<img src="https://github.com/elvinlab/elvinlab/raw/elvinlab/img/website.gif" alt="Visit homepage" align="center">
+<a href="https://www.linkedin.com/in/elvinlab/"> Visit my Linkedin
+<img src="https://github.com/elvinlab/elvinlab/blob/main/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
--->
+
 <hr>
 
 <div align="center">
 <p>Write something nice in my guest book:</p>
-<a href="https://github.com/elvinlab/elvinlab/issues"><img src="https://github.com/elvinlab/elvinlab/raw/elvinlab/img/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/elvinlab/elvinlab/issues"><img src="https://github.com/elvinlab/elvinlab/blob/main/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
 <hr>
@@ -29,7 +28,7 @@ to my personal GitHub profile!
 <div align="center">
 <p>Have a good day!</p>
 <div>
-<img src="https://github.com/elvinlab/elvinlab/raw/elvinlab/img/smile.gif" alt="Smiley" align="center">
+<img src="https://github.com/elvinlab/elvinlab/blob/main/img/smile.gif" alt="Smiley" align="center">
 </div>
 </div>
 
@@ -39,5 +38,5 @@ to my personal GitHub profile!
 </div>
 
 <div align="center">
-<img src="https://github.com/elvinlab/elvinlab/raw/elvinlab/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+<img src="https://github.com/elvinlab/elvinlab/blob/main/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
