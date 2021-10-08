@@ -19,28 +19,26 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+export default const Elvinlab =() => {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "Swift", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "PHP", "Java", "Python", "TypeScript", "C#/++"],
+    askMeAbout: ["web dev", "developer", "app dev", "full-stack"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express", "SuiteScript"],
+            js: ["Laravel", "Node.js", "Express.js", "Next.js"],
         },
         mobileApp: {
-            native: ["Android Development", "IOS Development"]
+            hybrids: ["Xamarin", "Android Development", "React Native"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["AWS", "Docker🐳", "Firebase", "Heroku", "Digital Ocean", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite", "Sql server"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
+    currentFocus: "Web Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-
+<br>
 <h3 align="center">
 <a href="https://www.linkedin.com/in/elvinlab/"> Visit my Linkedin
 <img src="https://github.com/elvinlab/elvinlab/blob/main/img/website.gif" alt="Visit homepage" align="center">
