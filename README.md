@@ -37,22 +37,18 @@ to my GitHub profile!
 <img src="https://profile-counter.glitch.me/elvinlab/count.svg" alt="hit counter" align="center">
 </div>
 
-
 <!-- Footer -->
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/elvinlab/elvinlab/blob/main/img/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
-
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<img src="https://github.com/elvinlab/elvinlab/blob/main/img/notepad.gif" alt="Site created with Notepad" height="30" />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://github.com/elvinlab/elvinlab/blob/main/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer"  width="128"/>
+<img src="https://github.com/elvinlab/elvinlab/blob/main/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer"/>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+<img src="https://github.com/elvinlab/elvinlab/blob/main/img/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
