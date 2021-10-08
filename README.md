@@ -6,6 +6,17 @@
 <img src="https://github.com/elvinlab/elvinlab/blob/main/img/welcome-fire.gif" target="_blank" alt="Welcome" align="center">
 </div>
 
+
+<img align="left" src="https://orhun.dev/img/crow.png">
+
+### Hey!
+
+I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
+
+[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://github.com/orhun.gpg)
+
+<br>
+
 <div align="center">
 to my GitHub profile!
 </div>
