@@ -13,6 +13,9 @@
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 <br>
 <br>
+[![GitHub license](https://img.shields.io/github/license/elvinlab/elvinlab)](https://github.com/elvinlab/elvinlab/blob/main/LICENSE)
+<br>
+<br>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -76,13 +79,11 @@ export default const Elvinlab =() => {
 </a>
 </div>
 <br />
-![GitHub license](https://img.shields.io/github/license/elvinlab/elvinlab)](https://github.com/elvinlab/elvinlab/blob/main/LICENSE)
-<br />
-<br />
-![elvinlab's github activity graph](https://activity-graph.herokuapp.com/graph?username=elvinlab&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![elvinlab's github activity graph](https://activity-graph.herokuapp.com/graph?username=elvinlab&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br />
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/elvinlab/elvinlab/blob/main/img/marquee.svg" />
 <br />
+
 ![Visitor Count](https://profile-counter.glitch.me/elvinlab/count.svg)
 
 <img src="https://github.com/elvinlab/elvinlab/blob/main/img/notepad.gif" alt="Site created with Notepad" height="30" />
