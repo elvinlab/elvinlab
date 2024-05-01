@@ -40,7 +40,7 @@ export default const Elvinlab =() => {
 ```
 <br>
 <h3 align="center">
-<a href="https://elvinlab.github.io/profile/"> Visit my website
+<a href="https://elvinlab.com/"> Visit my website
 <img src="https://github.com/elvinlab/elvinlab/blob/main/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
@@ -65,8 +65,6 @@ export default const Elvinlab =() => {
     
 <hr>
     
-[![elvinlab's github activity graph](https://activity-graph.herokuapp.com/graph?username=elvinlab&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <hr>
 
 ![Visitor Count](https://profile-counter.glitch.me/elvinlab/count.svg)
