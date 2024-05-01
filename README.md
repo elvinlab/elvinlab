@@ -69,20 +69,6 @@ export default const Elvinlab =() => {
 
 <hr>
 
-## 🗂️ Highlight Projects
-<div align="center">
-<a href="https://github.com/elvinlab/hacienda-el-orosi-web-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elvinlab&repo=hacienda-el-orosi-web-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="hacienda-el-orosi-web-app" />
-</a>
-
-<a href="https://github.com/elvinlab/unavacuna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elvinlab&repo=unavacuna&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="unavacuna" />
-</a>
-</div>
-<br />
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/elvinlab/elvinlab/blob/main/img/marquee.svg" />
-<br />
-
 ![Visitor Count](https://profile-counter.glitch.me/elvinlab/count.svg)
 
 <img src="https://github.com/elvinlab/elvinlab/blob/main/img/notepad.gif" alt="Site created with Notepad" height="30" />
