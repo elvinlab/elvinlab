@@ -1,105 +1,161 @@
 <div align="center">
-<img src="https://github.com/elvinlab/elvinlab/blob/main/img/fan-1.gif" alt="Fan" align="center">
+  <img src="https://github.com/elvinlab/elvinlab/blob/main/img/fan-1.gif" alt="Fan" />
 </div>
+
+<div align="center">
+
+# Hey, I'm Elvin 👋
 
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-### Hey!
+### Software Engineer ⚡ | Full-Stack | Performance & Architecture  
+### Building scalable systems, high-performance applications & production-grade architectures.
 
-I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 <br>
-<br>
-[![GitHub license](https://img.shields.io/github/license/elvinlab/elvinlab)](https://github.com/elvinlab/elvinlab/blob/main/LICENSE)
-<br/>
-<br/>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+![Profile Views](https://komarev.com/ghpvc/?username=elvinlab&color=0e75b6)
 
-```javascript
-export default const Elvinlab =() => {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "PHP", "Java", "Python", "TypeScript", "C#/++"],
-    askMeAbout: ["web dev", "developer", "app dev", "full-stack"],
-    technologies: {
-        backEnd: {
-            all: ["Laravel", "Node.js", "Express.js", "Next.js", "ASP.NET Core" ],
-        },
-        frontEnd: {
-            js: ["React.js", "Angular.js", "Vue.js"],
-        },
-        mobileApp: {
-            hybrids: ["Xamarin", "Android Development", "React Native"]
-        },
-        devOps: ["AWS", "Docker🐳", "Firebase", "Heroku", "Digital Ocean", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite", "Sql server"],
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Web Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-<br>
-<h3 align="center">
-<a href="https://elvinlab.com/"> Visit my website
-<img src="https://github.com/elvinlab/elvinlab/blob/main/img/website.gif" alt="Visit homepage" align="center">
-</a>
-</h3>
-
-
-
-<div align="center">
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/elvinlab/elvinlab/issues"><img src="https://github.com/elvinlab/elvinlab/blob/main/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
-<hr>
+
+---
+
+## 🚀 About Me
+
+Software Engineer with 5+ years of experience building **high-impact systems**, specialized in:
+
+- ⚙️ ETL & data processing  
+- 🚀 Performance optimization  
+- 🔐 Application security  
+- 🧠 Scalable architectures  
+- 🌐 Full-stack development  
+
+I collaborate with multidisciplinary teams to design robust, maintainable, and production-ready systems.
+
+> I don't just build features — I build systems that scale.
+
+---
+
+## 🧠 Tech Stack
+
+### 👨‍💻 Languages
+`JavaScript` `TypeScript` `PHP` `Python` `Java` `C#`
+
+### 🌐 Frontend
+`Astro` `Vue` `React` `Angular` `Next.js` `Vuetify`
+
+### ⚙️ Backend
+`Node.js` `Express` `Laravel` `ASP.NET Core` `Spring Boot`
+
+### ☁️ DevOps & Cloud
+`Docker` `AWS` `DigitalOcean` `Firebase` `Nginx`
+
+### 🗄 Databases
+`MongoDB` `MySQL` `SQL Server` `SQLite`
+
+---
+
+## 🏗 Architecture & Engineering Principles
+
+- Clean Architecture  
+- SOLID principles  
+- RESTful API design  
+- Serverless systems  
+- SPA / PWA applications  
+- Performance-first mindset  
+- Secure coding practices  
+
+---
+
+## 🏆 Engineering Highlights
+
+- Designed scalable systems handling high-volume data workflows  
+- Optimized application performance and reduced bottlenecks  
+- Applied SOLID and clean architecture in production systems  
+- Containerized environments to streamline deployments  
+- Contributed to architectural decisions in live systems  
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-<p>Have a good day!</p>
-<img src="https://github.com/elvinlab/elvinlab/blob/main/img/smile.gif" alt="Smiley" align="center">
-</div>
-<br/>
-<div align="center">
- 
+
 ![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/languages.svg)
-    
-<hr>
-    
-<hr>
-
-![Visitor Count](https://profile-counter.glitch.me/elvinlab/count.svg)
-
-<img src="https://github.com/elvinlab/elvinlab/blob/main/img/notepad.gif" alt="Site created with Notepad" height="30" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://github.com/elvinlab/elvinlab/blob/main/img/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://github.com/elvinlab/elvinlab/blob/main/img/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
-<br />
+
+---
+
+## 🧩 Current Focus
+
+- Advanced system architecture  
+- Cloud-native deployments  
+- Application security hardening  
+- Performance tuning at scale  
+
+---
+
+## 🐧 GNU/Linux Enthusiast
+
+Terminal-first workflow.  
+Automation lover.  
+Open-source supporter.
+
+> "Talk is cheap. Show me the code."
+
+---
+
+## 📬 Let's Connect
+
+If you're building something ambitious —  
+or optimizing something that already exists —  
+I'm interested.
+
+📩 **elvinlab@outlook.com**  
+🌍 https://elvinlab.dev  
+
+---
+
 <div align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+
+Built with focus, caffeine and Linux.
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Visit my website
+
+<a href="https://elvinlab.dev/">
+  <img src="https://github.com/elvinlab/elvinlab/blob/main/img/website.gif" alt="Visit homepage" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github.com/elvinlab/elvinlab/blob/main/img/smile.gif" alt="Smiley" />
+
+<br><br>
+
+<img src="https://github.com/elvinlab/elvinlab/blob/main/img/notepad.gif" height="30" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/elvinlab/elvinlab/blob/main/img/ie_logo.gif" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/elvinlab/elvinlab/blob/main/img/noframes.gif" />
+
+<br><br>
+
+<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/>
+
 </div>
