@@ -13,8 +13,6 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=elvinlab&color=0e75b6)
-
 </div>
 
 ---
@@ -73,17 +71,6 @@ I collaborate with multidisciplinary teams to design robust, maintainable, and p
 - Applied SOLID and clean architecture in production systems  
 - Containerized environments to streamline deployments  
 - Contributed to architectural decisions in live systems  
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/elvinlab/github-stats-transparent/output/generated/languages.svg)
-
-</div>
 
 ---
 
