@@ -68,6 +68,14 @@
 | **2022–2024** | Full-stack products, portfolio sites and Vue / Astro work |
 | **2025 → today** | AI engineering, performance and architecture |
 
+## 📈 Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elvinlab/elvinlab/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elvinlab/elvinlab/output/snake-light.svg">
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/elvinlab/elvinlab/output/snake-dark.svg" width="100%">
+</picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
