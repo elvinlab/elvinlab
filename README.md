@@ -1,148 +1,89 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Elvin González — Software Engineer, AI Engineering and Performance" src="assets/header-dark.svg" width="100%">
+</picture>
+
 <div align="center">
-  <img src="https://github.com/elvinlab/elvinlab/blob/main/img/fan-1.gif" alt="Fan" />
+
+**I build LLM-powered tools and agentic workflows, and I make slow systems fast.**
+
+[![Website](https://img.shields.io/badge/elvinlab.dev-8b5cf6?style=for-the-badge&logo=astro&logoColor=white)](https://elvinlab.dev) [![X](https://img.shields.io/badge/@elvinlabweb-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elvinlabweb) [![Email](https://img.shields.io/badge/elvinlab@outlook.com-06b6d4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:elvinlab@outlook.com)
+
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img alt="" src="assets/divider-dark.svg" width="100%">
+</picture>
+
+## ⚡ What I do
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Engineering</h3>
+      Integrating LLMs into real products, building agents, RAG pipelines and developer tooling.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Performance</h3>
+      Profiling, finding bottlenecks and making systems faster and cheaper to run.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗 Architecture</h3>
+      Clean and hexagonal designs that stay maintainable as they grow.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Full-Stack</h3>
+      From data pipelines and APIs to polished interfaces.
+    </td>
+  </tr>
+</table>
+
+## 🧠 Stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,php,nodejs,laravel,dotnet,vue,astro,react,docker,aws,mysql,mongodb,linux&perline=15&theme=light">
+    <img alt="TypeScript, JavaScript, Python, PHP, Node.js, Laravel, .NET, Vue, Astro, React, Docker, AWS, MySQL, MongoDB, Linux" src="https://skillicons.dev/icons?i=ts,js,py,php,nodejs,laravel,dotnet,vue,astro,react,docker,aws,mysql,mongodb,linux&perline=15&theme=dark">
+  </picture>
+</p>
+
+## 🛰 Now
+
+- 🚧 Rebuilding [elvinlab.dev](https://elvinlab.dev) as a blog about AI engineering and performance.
+- 🔜 New projects on the way — they will be pinned right here.
+
+## 🧬 Journey
+
+> Every developer starts somewhere. My earlier work lives under the [`legacy`](https://github.com/elvinlab?tab=repositories&q=topic%3Alegacy) topic.
+
+| Year | Milestone |
+|:----:|-----------|
+| **2020** | First APIs and university projects with Node.js, Laravel and Angular |
+| **2021** | Team projects with React and Next.js |
+| **2022–2024** | Full-stack products, portfolio sites and Vue / Astro work |
+| **2025 → today** | AI engineering, performance and architecture |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img alt="" src="assets/divider-dark.svg" width="100%">
+</picture>
+
 <div align="center">
 
-# Hey, I'm Elvin 👋
+🐧 **Terminal-first · Linux · Open source**
 
-<img align="left" src="https://orhun.dev/img/crow.png">
+*"Talk is cheap. Show me the code."*
 
-### Software Engineer ⚡ | Full-Stack | Performance & Architecture  
-### Building scalable systems, high-performance applications & production-grade architectures.
+<sub>From the '90s web to the AI era — built with focus, caffeine and Linux.</sub>
 
+<img src="img/notepad.gif" height="24" /> &nbsp; <img src="img/ie_logo.gif" height="24" /> &nbsp; <img src="img/noframes.gif" height="24" />
 <br>
-
-</div>
-
----
-
-## 🚀 About Me
-
-Software Engineer with 5+ years of experience building **high-impact systems**, specialized in:
-
-- ⚙️ ETL & data processing  
-- 🚀 Performance optimization  
-- 🔐 Application security  
-- 🧠 Scalable architectures  
-- 🌐 Full-stack development  
-
-I collaborate with multidisciplinary teams to design robust, maintainable, and production-ready systems.
-
-> I don't just build features — I build systems that scale.
-
----
-
-## 🧠 Tech Stack
-
-### 👨‍💻 Languages
-`JavaScript` `TypeScript` `PHP` `Python` `Java` `C#`
-
-### 🌐 Frontend
-`Astro` `Vue` `React` `Angular` `Next.js` `Vuetify`
-
-### ⚙️ Backend
-`Node.js` `Express` `Laravel` `ASP.NET Core` `Spring Boot`
-
-### ☁️ DevOps & Cloud
-`Docker` `AWS` `DigitalOcean` `Firebase` `Nginx`
-
-### 🗄 Databases
-`MongoDB` `MySQL` `SQL Server` `SQLite`
-
----
-
-## 🏗 Architecture & Engineering Principles
-
-- Clean Architecture  
-- SOLID principles  
-- RESTful API design  
-- Serverless systems  
-- SPA / PWA applications  
-- Performance-first mindset  
-- Secure coding practices  
-
----
-
-## 🏆 Engineering Highlights
-
-- Designed scalable systems handling high-volume data workflows  
-- Optimized application performance and reduced bottlenecks  
-- Applied SOLID and clean architecture in production systems  
-- Containerized environments to streamline deployments  
-- Contributed to architectural decisions in live systems  
-
----
-
-## 🧩 Current Focus
-
-- Advanced system architecture  
-- Cloud-native deployments  
-- Application security hardening  
-- Performance tuning at scale  
-
----
-
-## 🐧 GNU/Linux Enthusiast
-
-Terminal-first workflow.  
-Automation lover.  
-Open-source supporter.
-
-> "Talk is cheap. Show me the code."
-
----
-
-## 📬 Let's Connect
-
-If you're building something ambitious —  
-or optimizing something that already exists —  
-I'm interested.
-
-📩 **elvinlab@outlook.com**  
-🌍 https://elvinlab.dev  
-
----
-
-<div align="center">
-
-Built with focus, caffeine and Linux.
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 Visit my website
-
-<a href="https://elvinlab.dev/">
-  <img src="https://github.com/elvinlab/elvinlab/blob/main/img/website.gif" alt="Visit homepage" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github.com/elvinlab/elvinlab/blob/main/img/smile.gif" alt="Smiley" />
-
-<br><br>
-
-<img src="https://github.com/elvinlab/elvinlab/blob/main/img/notepad.gif" height="30" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/elvinlab/elvinlab/blob/main/img/ie_logo.gif" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/elvinlab/elvinlab/blob/main/img/noframes.gif" />
-
-<br><br>
-
-<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30"/>
-<img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30"/>
-<img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30"/>
-<img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="30"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="24"/> <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="24"/> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="24"/>
 
 </div>
