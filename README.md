@@ -1,16 +1,20 @@
+<div align="center">
+  <img src="img/fan-1.gif" alt="Fan" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Elvin González — Frontend-focused Software Engineer: Vue, clean architecture, AWS and an AI-first workflow" src="assets/header-dark.svg" width="100%">
+  <img alt="Elvin González — Full-stack Software Engineer: AI agents and workflows, clean architecture, performance and cloud" src="assets/header-dark.svg" width="100%">
 </picture>
 
 <div align="center">
 
-### I build maintainable, well-tested frontends on clean architecture — with an AI-first workflow.
+### Full-stack engineer building with AI agents — clean architecture, fast systems and production-ready cloud.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvinlab) [![Website](https://img.shields.io/badge/elvinlab.dev-8b5cf6?style=for-the-badge&logo=astro&logoColor=white)](https://elvinlab.dev) [![X](https://img.shields.io/badge/@elvinlabweb-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elvinlabweb) [![Email](https://img.shields.io/badge/elvinlab@outlook.com-06b6d4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:elvinlab@outlook.com)
 
-![Experience](https://img.shields.io/badge/experience-5%2B_years-8b5cf6?style=flat-square) ![Focus](https://img.shields.io/badge/focus-Frontend_·_Vue-06b6d4?style=flat-square&logo=vuedotjs&logoColor=white) ![Architecture](https://img.shields.io/badge/architecture-Clean_·_Hexagonal-ec4899?style=flat-square) ![Cloud](https://img.shields.io/badge/cloud-AWS-8b5cf6?style=flat-square&logo=amazonwebservices&logoColor=white) ![Location](https://img.shields.io/badge/based_in-Costa_Rica-06b6d4?style=flat-square)
+![Experience](https://img.shields.io/badge/experience-5%2B_years-8b5cf6?style=flat-square) ![Focus](https://img.shields.io/badge/focus-Full--Stack_·_AI_Agents-06b6d4?style=flat-square&logo=claude&logoColor=white) ![Architecture](https://img.shields.io/badge/architecture-Clean_·_Hexagonal-ec4899?style=flat-square) ![Cloud](https://img.shields.io/badge/cloud-AWS-8b5cf6?style=flat-square&logo=amazonwebservices&logoColor=white) ![Location](https://img.shields.io/badge/based_in-Costa_Rica-06b6d4?style=flat-square)
 
 </div>
 
@@ -25,8 +29,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 Frontend Engineering</h3>
-      Vue 3 and Vuetify applications built from reusable, well-tested components — atomic design, container/presentational, accessibility and i18n.
+      <h3>🤖 AI Agents &amp; Workflows</h3>
+      Multi-agent orchestration, model routing across providers, persistent memory and spec-driven development with Claude Code and OpenCode.
     </td>
     <td width="50%" valign="top">
       <h3>🏗 Software Architecture</h3>
@@ -35,12 +39,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ Backend &amp; Cloud</h3>
-      Java and Spring Boot REST APIs, deployed on AWS — ECS, Fargate, Lambda, API Gateway and CloudFront — with Docker and CI/CD.
+      <h3>🌐 Full-Stack Engineering</h3>
+      Framework-agnostic: component-driven frontends, REST APIs and data layers — Vue, Java/Spring Boot, Node.js, MySQL and MongoDB.
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI-First Workflow</h3>
-      Claude Code and agentic development workflows to ship faster without giving up quality, tests or code reviews.
+      <h3>⚡ Performance &amp; Cloud</h3>
+      Profiling and optimization, deployed on AWS — ECS, Fargate, Lambda, API Gateway and CloudFront — with Docker and CI/CD.
     </td>
   </tr>
 </table>
@@ -49,22 +53,22 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue,js,ts,java,spring,mysql,mongodb,aws,docker,githubactions,jest,vite,linux,neovim,figma&perline=8&theme=light">
-    <img alt="Vue, JavaScript, TypeScript, Java, Spring, MySQL, MongoDB, AWS, Docker, GitHub Actions, Jest, Vite, Linux, Neovim, Figma" src="https://skillicons.dev/icons?i=vue,js,ts,java,spring,mysql,mongodb,aws,docker,githubactions,jest,vite,linux,neovim,figma&perline=8&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,java,spring,nodejs,vue,mysql,mongodb,aws,docker,githubactions,jest,vite,linux,neovim,figma&perline=8&theme=light">
+    <img alt="TypeScript, JavaScript, Java, Spring, Node.js, Vue, MySQL, MongoDB, AWS, Docker, GitHub Actions, Jest, Vite, Linux, Neovim, Figma" src="https://skillicons.dev/icons?i=ts,js,java,spring,nodejs,vue,mysql,mongodb,aws,docker,githubactions,jest,vite,linux,neovim,figma&perline=8&theme=dark">
   </picture>
 </p>
 
 ## 🧭 How I work
 
 - **Boundaries first** — business logic stays independent from frameworks and infrastructure.
-- **Components that last** — small, reusable and tested with Jest and Vue Test Utils.
+- **Tested by default** — small, reusable units with meaningful tests on every layer.
 - **Readable over clever** — predictable code, meaningful reviews and technical documentation.
 - **AI as a tool** — I direct, AI executes. Every change is understood, reviewed and tested.
 
 ## 🛰 Now
 
-- 🚧 Rebuilding [elvinlab.dev](https://elvinlab.dev) as a blog about frontend architecture and AI-assisted development.
-- 📚 Going deeper into Vue 3 + TypeScript, frontend testing strategies and AWS architecture.
+- 🚧 Rebuilding [elvinlab.dev](https://elvinlab.dev) as a blog about AI agents, architecture and performance.
+- 🤖 Designing agentic development workflows: orchestration, model routing and memory.
 - 🔜 New projects on the way — they will be pinned right here.
 
 ## 🧬 Journey
@@ -75,8 +79,8 @@
 |:----:|-----------|
 | **2020** | First APIs and university projects with Node.js, Laravel and Angular |
 | **2021** | Team projects with React and Next.js |
-| **2022–2024** | Full-stack products and a shift toward Vue and frontend engineering |
-| **2025 → today** | Frontend architecture, Java & AWS, and an AI-first workflow |
+| **2022–2024** | Full-stack products, Vue, Java/Spring Boot and AWS |
+| **2025 → today** | AI agents and workflows, clean architecture and performance |
 
 <!-- Re-enable once the contribution graph shows real activity.
 ## 📈 Activity
@@ -98,15 +102,11 @@
 
 ### 🤝 Let's build something
 
-Open to conversations about frontend architecture, Vue and interesting engineering challenges.
+Open to conversations about AI agents, software architecture and interesting engineering challenges.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvinlab) [![Email me](https://img.shields.io/badge/Email_me-ec4899?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:elvinlab@outlook.com) [![Visit my site](https://img.shields.io/badge/Visit_my_site-8b5cf6?style=for-the-badge&logo=astro&logoColor=white)](https://elvinlab.dev)
 
 <br>
-
-<img src="img/fan-1.gif" alt="Fan" height="90" />
-
-<sub>Keeping the build cool since 2020.</sub>
 
 🐧 **Terminal-first · Linux · Neovim · Tmux · Zellij**
 
