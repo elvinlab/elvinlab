@@ -8,13 +8,20 @@
   <img alt="Elvin González — Full-stack Software Engineer: AI agents and workflows, clean architecture, performance and cloud" src="assets/banner-dark.svg" width="100%">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/strip-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/strip-light.svg">
+  <img alt="5+ years · Full-stack · AI agents & workflows · Architecture · Performance · Costa Rica" src="assets/strip-dark.svg" width="100%">
+</picture>
+
 <div align="center">
 
-### Full-stack engineer building with AI agents — clean architecture, fast systems and production-ready cloud.
+### Full-stack engineer building with AI agents.
+
+Clean architecture · Fast systems · Production-ready cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvinlab) [![Website](https://img.shields.io/badge/elvinlab.dev-8b5cf6?style=for-the-badge&logo=astro&logoColor=white)](https://elvinlab.dev) [![X](https://img.shields.io/badge/@elvinlabweb-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elvinlabweb) [![Email](https://img.shields.io/badge/elvinlab@outlook.com-06b6d4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:elvinlab@outlook.com)
 
-![Experience](https://img.shields.io/badge/experience-5%2B_years-8b5cf6?style=flat-square) ![Role](https://img.shields.io/badge/role-Full--Stack_Engineer-06b6d4?style=flat-square) ![AI](https://img.shields.io/badge/AI-Agents_·_Workflows-ec4899?style=flat-square) ![Focus](https://img.shields.io/badge/focus-Architecture_·_Performance-8b5cf6?style=flat-square) ![Location](https://img.shields.io/badge/based_in-Costa_Rica-06b6d4?style=flat-square)
 
 </div>
 
@@ -26,28 +33,11 @@
 
 ## ⚡ What I do
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Agents &amp; Workflows</h3>
-      Multi-agent orchestration, model routing across providers, persistent memory and spec-driven development — AI that ships real software.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏗 Software Architecture</h3>
-      Clear boundaries, decoupled domains and predictable code — systems that stay easy to change as they grow.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Full-Stack Engineering</h3>
-      End to end, framework-agnostic: interfaces, APIs, data and infrastructure. The right tool for each problem.
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Performance &amp; Cloud</h3>
-      Profiling, bottleneck hunting and optimization — fast, cost-efficient systems with automated delivery.
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cards-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/cards-light.svg">
+  <img alt="AI agents and workflows, software architecture, full-stack engineering, performance and optimization" src="assets/cards-dark.svg" width="100%">
+</picture>
 
 ## 🧰 Toolbox
 
@@ -69,12 +59,11 @@
 
 > Every developer starts somewhere. My earlier work lives under the [`legacy`](https://github.com/elvinlab?tab=repositories&q=topic%3Alegacy) topic.
 
-| Year | Milestone |
-|:----:|-----------|
-| **2020** | First APIs and university projects with Node.js, Laravel and Angular |
-| **2021** | Team projects with React and Next.js |
-| **2022–2024** | Full-stack products, cloud deployments and team codebases |
-| **2025 → today** | AI agents and workflows, clean architecture and performance |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/timeline-light.svg">
+  <img alt="Journey: 2020 first APIs and university projects; 2021 team projects and modern frontend frameworks; 2022-2024 full-stack products, cloud deployments and team codebases; 2025 to now AI agents, clean architecture and performance" src="assets/timeline-dark.svg" width="100%">
+</picture>
 
 <!-- Re-enable once the contribution graph shows real activity.
 ## 📈 Activity
