@@ -104,6 +104,10 @@ Open to conversations about frontend architecture, Vue and interesting engineeri
 
 <br>
 
+<img src="img/fan-1.gif" alt="Fan" height="90" />
+
+<sub>Keeping the build cool since 2020.</sub>
+
 🐧 **Terminal-first · Linux · Neovim · Tmux · Zellij**
 
 *"Talk is cheap. Show me the code."*
