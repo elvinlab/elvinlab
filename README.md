@@ -3,9 +3,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Elvin González — Full-stack Software Engineer: AI agents and workflows, clean architecture, performance and cloud" src="assets/header-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Elvin González — Full-stack Software Engineer: AI agents and workflows, clean architecture, performance and cloud" src="assets/banner-dark.svg" width="100%">
 </picture>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvinlab) [![Website](https://img.shields.io/badge/elvinlab.dev-8b5cf6?style=for-the-badge&logo=astro&logoColor=white)](https://elvinlab.dev) [![X](https://img.shields.io/badge/@elvinlabweb-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elvinlabweb) [![Email](https://img.shields.io/badge/elvinlab@outlook.com-06b6d4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:elvinlab@outlook.com)
 
-![Experience](https://img.shields.io/badge/experience-5%2B_years-8b5cf6?style=flat-square) ![Focus](https://img.shields.io/badge/focus-Full--Stack_·_AI_Agents-06b6d4?style=flat-square&logo=claude&logoColor=white) ![Architecture](https://img.shields.io/badge/architecture-Clean_·_Hexagonal-ec4899?style=flat-square) ![Cloud](https://img.shields.io/badge/cloud-AWS-8b5cf6?style=flat-square&logo=amazonwebservices&logoColor=white) ![Location](https://img.shields.io/badge/based_in-Costa_Rica-06b6d4?style=flat-square)
+![Experience](https://img.shields.io/badge/experience-5%2B_years-8b5cf6?style=flat-square) ![Role](https://img.shields.io/badge/role-Full--Stack_Engineer-06b6d4?style=flat-square) ![AI](https://img.shields.io/badge/AI-Agents_·_Workflows-ec4899?style=flat-square) ![Focus](https://img.shields.io/badge/focus-Architecture_·_Performance-8b5cf6?style=flat-square) ![Location](https://img.shields.io/badge/based_in-Costa_Rica-06b6d4?style=flat-square)
 
 </div>
 
@@ -30,26 +30,26 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI Agents &amp; Workflows</h3>
-      Multi-agent orchestration, model routing across providers, persistent memory and spec-driven development with Claude Code and OpenCode.
+      Multi-agent orchestration, model routing across providers, persistent memory and spec-driven development — AI that ships real software.
     </td>
     <td width="50%" valign="top">
       <h3>🏗 Software Architecture</h3>
-      Clean, hexagonal, vertical slice and screaming architecture. Clear boundaries and predictable code that is easy to evolve.
+      Clear boundaries, decoupled domains and predictable code — systems that stay easy to change as they grow.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 Full-Stack Engineering</h3>
-      Framework-agnostic: component-driven frontends, REST APIs and data layers — Vue, Java/Spring Boot, Node.js, MySQL and MongoDB.
+      End to end, framework-agnostic: interfaces, APIs, data and infrastructure. The right tool for each problem.
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Performance &amp; Cloud</h3>
-      Profiling and optimization, deployed on AWS — ECS, Fargate, Lambda, API Gateway and CloudFront — with Docker and CI/CD.
+      Profiling, bottleneck hunting and optimization — fast, cost-efficient systems with automated delivery.
     </td>
   </tr>
 </table>
 
-## 🧠 Stack
+## 🧰 Toolbox
 
 <p align="center">
   <picture>
@@ -65,12 +65,6 @@
 - **Readable over clever** — predictable code, meaningful reviews and technical documentation.
 - **AI as a tool** — I direct, AI executes. Every change is understood, reviewed and tested.
 
-## 🛰 Now
-
-- 🚧 Rebuilding [elvinlab.dev](https://elvinlab.dev) as a blog about AI agents, architecture and performance.
-- 🤖 Designing agentic development workflows: orchestration, model routing and memory.
-- 🔜 New projects on the way — they will be pinned right here.
-
 ## 🧬 Journey
 
 > Every developer starts somewhere. My earlier work lives under the [`legacy`](https://github.com/elvinlab?tab=repositories&q=topic%3Alegacy) topic.
@@ -79,7 +73,7 @@
 |:----:|-----------|
 | **2020** | First APIs and university projects with Node.js, Laravel and Angular |
 | **2021** | Team projects with React and Next.js |
-| **2022–2024** | Full-stack products, Vue, Java/Spring Boot and AWS |
+| **2022–2024** | Full-stack products, cloud deployments and team codebases |
 | **2025 → today** | AI agents and workflows, clean architecture and performance |
 
 <!-- Re-enable once the contribution graph shows real activity.
