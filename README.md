@@ -8,7 +8,7 @@
 
 ### I build maintainable, well-tested frontends on clean architecture — with an AI-first workflow.
 
-[![Website](https://img.shields.io/badge/elvinlab.dev-8b5cf6?style=for-the-badge&logo=astro&logoColor=white)](https://elvinlab.dev) [![X](https://img.shields.io/badge/@elvinlabweb-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elvinlabweb) [![Email](https://img.shields.io/badge/elvinlab@outlook.com-06b6d4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:elvinlab@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvinlab) [![Website](https://img.shields.io/badge/elvinlab.dev-8b5cf6?style=for-the-badge&logo=astro&logoColor=white)](https://elvinlab.dev) [![X](https://img.shields.io/badge/@elvinlabweb-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elvinlabweb) [![Email](https://img.shields.io/badge/elvinlab@outlook.com-06b6d4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:elvinlab@outlook.com)
 
 ![Experience](https://img.shields.io/badge/experience-5%2B_years-8b5cf6?style=flat-square) ![Focus](https://img.shields.io/badge/focus-Frontend_·_Vue-06b6d4?style=flat-square&logo=vuedotjs&logoColor=white) ![Architecture](https://img.shields.io/badge/architecture-Clean_·_Hexagonal-ec4899?style=flat-square) ![Cloud](https://img.shields.io/badge/cloud-AWS-8b5cf6?style=flat-square&logo=amazonwebservices&logoColor=white) ![Location](https://img.shields.io/badge/based_in-Costa_Rica-06b6d4?style=flat-square)
 
@@ -100,7 +100,7 @@
 
 Open to conversations about frontend architecture, Vue and interesting engineering challenges.
 
-[![Email me](https://img.shields.io/badge/Email_me-ec4899?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:elvinlab@outlook.com) [![Visit my site](https://img.shields.io/badge/Visit_my_site-8b5cf6?style=for-the-badge&logo=astro&logoColor=white)](https://elvinlab.dev)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvinlab) [![Email me](https://img.shields.io/badge/Email_me-ec4899?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:elvinlab@outlook.com) [![Visit my site](https://img.shields.io/badge/Visit_my_site-8b5cf6?style=for-the-badge&logo=astro&logoColor=white)](https://elvinlab.dev)
 
 <br>
 
